@@ -1,0 +1,151 @@
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #00c9ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #92fe9d, #00c9ff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #92fe9d, #00c9ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: var(--color-white);
+    font-family: "Noto Sans", sans-serif;
+    min-height: 100vh;
+}
+
+.container-main {
+
+}
+
+.banner {
+
+}
+
+.banner ul {
+    
+}
+
+.banner ul li {
+    
+}
+
+.banner .button {
+    background: cornflowerblue;
+    border: 3px solid var(--color-black);
+    border-radius: 100px;
+    color: var(--color-white);
+    cursor: pointer;
+    display: block;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.container-cards {
+
+}
+
+.card {
+    background-position: center center;
+    background-size: cover;
+    border-radius: 8px;
+    min-height: 210px;
+    padding: 20px;
+}
+
+.card .texts {
+
+}
+
+.card .texts h5 {
+
+}
+
+hr {
+    background-color: var(--color-black);
+    color: var(--color-black);
+    height: 4px;
+    margin: 20px auto;
+    max-width: 1500px;
+    width: 90%;
+}
+
+.container-info {
+
+}
+
+.container-info .presentation {
+    background-color: var(--color-white);
+    border: 2px solid var(--color-black);
+    border-radius: 10px;
+    color: var(--color-black);
+    padding: 10px;
+    text-align: justify;
+}
+
+.container-info .form {
+
+}
+
+.container-info .form input {
+    border-radius: 8px;
+    margin-bottom: 14px;
+    padding: 6px;
+}
+
+.container-info .form textarea {
+    border-radius: 8px;
+    margin-bottom: 14px;
+    padding: 6px;
+    resize: none;
+}
+
+.container-info .form .button {
+    background: cornflowerblue;
+    border: 3px solid var(--color-black);
+    border-radius: 10px;
+    color: var(--color-white);
+    cursor: pointer;
+    display: block;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.2s;
+    width: 100%;
+}
+
+.container-images {
+
+}
+
+.container-images img {
+    border: 2px solid var(--color-black);
+    width: 100%;
+}
+
+/* Media Queries */
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+    
+}
