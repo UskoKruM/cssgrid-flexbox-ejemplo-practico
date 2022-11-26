@@ -41,7 +41,7 @@ body {
     color: var(--color-white);
     cursor: pointer;
     display: block;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Sans", sans-serif;
     font-size: 14px;
     font-weight: bold;
     padding: 10px;
@@ -115,7 +115,7 @@ hr {
     color: var(--color-white);
     cursor: pointer;
     display: block;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Sans", sans-serif;
     font-size: 14px;
     font-weight: bold;
     padding: 10px;
